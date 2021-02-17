@@ -1,6 +1,6 @@
-#!/bin/bash -x 
+#!/bin/bash
 
 for (( i=0; i<=5; i++ ))
 do
-        echo -n "$(($i*$i))"
+     echo -n "$(($i*$i))"
 done

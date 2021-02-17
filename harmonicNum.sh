@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash 
 
 for (( harmonic=n; harmonic<=5; harmonic++ ))
 do
